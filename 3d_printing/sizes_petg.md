@@ -87,7 +87,7 @@ Diameter of a circle where the polygon (nut) is inscribed.
 | M3  | 5.5 | 5.6 | 2 |
 
 
-### Knurl
+## Knurl Hole
 
 | Thread Size | Close Fit (mm) | Standard Fit (mm) | Height (mm) |
 |:-----------:|:--------------:|:-----------------:|:-----------:|
