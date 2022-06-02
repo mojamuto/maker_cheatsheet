@@ -9,7 +9,7 @@
 * [Self Tapping Hole](#self-tapping-hole)
 * [Nut Pocket](#nut-pocket)
 * [Shaft Hole](#shaft-hole)
-
+* [Knurl Hole](#knurl-hole)
 
 
 ## Screw Hole
@@ -85,3 +85,10 @@ Diameter of a circle where the polygon (nut) is inscribed.
 | Thread Size | Close Fit (mm) | Standard Fit (mm) | Height (mm) |
 |:-----------:|:--------------:|:-----------------:|:-----------:|
 | M3  | 5.5 | 5.6 | 2 |
+
+
+### Knurl
+
+| Thread Size | Close Fit (mm) | Standard Fit (mm) | Height (mm) |
+|:-----------:|:--------------:|:-----------------:|:-----------:|
+| M3  | 3.8 | ? | 5 |
