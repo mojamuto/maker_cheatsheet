@@ -91,4 +91,4 @@ Diameter of a circle where the polygon (nut) is inscribed.
 
 | Thread Size | Close Fit (mm) | Standard Fit (mm) | Height (mm) |
 |:-----------:|:--------------:|:-----------------:|:-----------:|
-| M3  | 3.8 | ? | 5 |
+| M3  | 3.8 | ? | 5.25 |
