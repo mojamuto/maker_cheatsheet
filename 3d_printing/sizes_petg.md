@@ -35,7 +35,8 @@ Hole to fit the screw's head
 | Thread Size | Close Fit (mm) | Standard Fit (mm) | Large Fit (mm) | Height (mm) |
 |:-----------:|:--------------:|:-----------------:|:--------------:|:------:|
 | M3  | 5.6 | 5.8 | 6.0  | 3 |
-
+| M4  | 7.1 | 7.3 | 7.5  | 4 |
+| m5  | 8.6 | 8.8 | 9.0  | 5 | 
 
 ### Button Head ISO 7380
 
